@@ -4,7 +4,7 @@
      contact="flekst@gmail.com" 
      name="kstati" 
      src="http://kst-gentoo-overlay.googlecode.com/svn/trunk/"
-     status="unofficial" type="subversion">
+     status="unofficial" type="svn">
     <link>http://code.google.com/p/kst-gentoo-overlay/</link>
     <description>kstati's gentoo overlay</description>
   </overlay>
