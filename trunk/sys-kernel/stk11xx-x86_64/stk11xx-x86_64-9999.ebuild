@@ -13,7 +13,7 @@ DESCRIPTION="Syntek Semicon Web Cam Driver. Most used in Asus Laptops"
 HOMEPAGE="http://downloads.sourceforge.net/project/syntekdriver"
 
 ESVN_REPO_URI="https://syntekdriver.svn.sourceforge.net/svnroot/syntekdriver/trunk/driver"
-SRC_URI="http://bookeldor-net.info/merdier/${MAKEFILE_SYNTEK}"
+SRC_URI="http://kst-gentoo-overlay.googlecode.com/svn/trunk/sys-kernel/stk11xx-x86_64/files/${MAKEFILE_SYNTEK}"
 
 LICENSE="GPL BSD"
 SLOT="0"
